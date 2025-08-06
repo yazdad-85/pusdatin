@@ -1,0 +1,8 @@
+# Laravel
+/vendor/
+/node_modules/
+.env
+.DS_Store
+pusdayas/
+pusdayas_hosting/
+pusdayas_ready/
